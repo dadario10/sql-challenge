@@ -2,7 +2,7 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/VCaXwp
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
--- Create and view tables
+-- Create tables
 CREATE TABLE "departments" (
     "dept_no" VARCHAR(20)   NOT NULL,
     "dept_name" VARCHAR(20)   NOT NULL,
